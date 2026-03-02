@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "database_name": "Inventory Search Project",
+    "version": "1.0",
+    "created_at": "2026-03-01T12:00:00Z"
+  },
+  "items": [
+    {
+      "id": 1001,
+      "name": "Arduino Uno R3",
+      "location": "Room 120",
+      "quantity": 15,
+      "tags": ["electronics", "microcontroller", "embedded"]
+    },
+    {
+      "id": 1002,
+      "name": "Raspberry Pi 4 Model B",
+      "location": "Room 122",
+      "quantity": 8,
+      "tags": ["electronics", "linux", "embedded"]
+    },
+    {
+      "id": 1003,
+      "name": "Soldering Iron Station",
+      "location": "Storage Closet A",
+      "quantity": 3,
+      "tags": ["tools", "hardware"]
+    },
+    {
+      "id": 1004,
+      "name": "Ultrasonic Distance Sensor",
+      "location": "Room 120",
+      "quantity": 42,
+      "tags": ["electronics", "sensor"]
+    },
+    {
+      "id": 1005,
+      "name": "Multimeter Pro",
+      "location": "Room 122",
+      "quantity": 0,
+      "tags": ["tools", "measurement"]
+    },
+    {
+      "id": 1006,
+      "name": "Ethernet Cable 1m",
+      "location": "Network Cabinet",
+      "quantity": 64,
+      "tags": ["network", "cable"]
+    },
+    {
+      "id": 1007,
+      "name": "Stepper Motor NEMA 17",
+      "location": "Room 120",
+      "quantity": 11,
+      "tags": ["electronics", "motor"]
+    },
+    {
+      "id": 1008,
+      "name": "DC Power Supply 30V",
+      "location": "Room 122",
+      "quantity": 4,
+      "tags": ["electronics", "power"]
+    },
+    {
+      "id": 1009,
+      "name": "Oscilloscope Digital 100MHz",
+      "location": "Lab Bench 3",
+      "quantity": 2,
+      "tags": ["measurement", "electronics"]
+    },
+    {
+      "id": 1010,
+      "name": "Breadboard Large",
+      "location": "Room 120",
+      "quantity": 27,
+      "tags": ["electronics", "prototyping"]
+    }
+  ],
+  "search_logs": []
+}
